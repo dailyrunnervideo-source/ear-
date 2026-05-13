@@ -1,0 +1,6 @@
+{
+  "name": "Personal Branding Hub",
+  "description": "A personal branding website featuring blogs, podcasts, videos, and an admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
